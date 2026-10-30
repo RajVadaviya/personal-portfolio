@@ -96,7 +96,7 @@ We may periodically update this Privacy Policy to reflect app improvements, new 
 ## 9. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data privacy, please contact:
 
-* **Developer:** Raju's Studio (Raj Vadaviya)
+* **Developer:** Raju's Studio
 * **Email:** [rajvadaviya1@gmail.com](mailto:rajvadaviya1@gmail.com)
 * **Application:** KhataFlow – Digital Ledger, POS Billing & Cashbook (`com.khataflow.ledger`)
 * **Jurisdiction:** Gujarat, India
