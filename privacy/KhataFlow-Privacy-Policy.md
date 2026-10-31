@@ -1,9 +1,9 @@
-# Privacy Policy – KhataFlow: Digital Ledger & Billing
+# Privacy Policy – KhataFlow: Khata & POS Bills
 
 **Effective Date:** October 30, 2026  
-**Last Updated:** October 30, 2026  
+**Last Updated:** October 31, 2026  
 **Developer / Studio:** Raju's Studio (Raj Vadaviya)  
-**Application Name:** KhataFlow – Digital Ledger, POS Billing & Cashbook  
+**Application Name:** KhataFlow: Khata & POS Bills  
 **Package Name:** `com.khataflow.ledger`  
 **Contact Email:** [rajvadaviya1@gmail.com](mailto:rajvadaviya1@gmail.com)  
 **Location:** Gujarat, India  
@@ -11,7 +11,7 @@
 ---
 
 ## 1. Overview
-Welcome to **KhataFlow** ("the App", "we", "our", or "us"), developed and maintained by Raju's Studio (Raj Vadaviya). We are committed to safeguarding the privacy and confidential financial data of every business owner, merchant, customer, and user.
+Welcome to **KhataFlow** ("the App", "we", "our", or "us"), developed and maintained by Raju's Studio. We are committed to safeguarding the privacy and confidential financial data of every business owner, merchant, customer, and user.
 
 This Privacy Policy explains how information is handled when you use the KhataFlow mobile application (Android package: `com.khataflow.ledger`). KhataFlow is designed with an **offline-first and privacy-focused architecture** to ensure your business bookkeeping, customer credit records, invoices, and daily cash transactions remain strictly secure and under your personal control.
 
